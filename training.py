@@ -265,7 +265,7 @@ def run(model_path, epochs):
         if wer < best_wer:
             best_wer = wer
     
-    output_str = processor.tokenizer.batch_decode(best_outputs, skip_special_tokenprints=True)
+    output_str = processor.tokenizer.batch_decode(best_outputs, skip_special_tokens=True)
     print(output_str)
 
     with open(root_dir+"recognized_text.pickle", 'wb') as f:
