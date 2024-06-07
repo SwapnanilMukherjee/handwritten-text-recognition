@@ -18,7 +18,7 @@ For NER to work correctly, the spaCy module `en_core_web_md` must also be instal
 python -m spacy download en_core_web_md
 ```
 
-The data to run the code is available under the `/cvl-database-1-1` directory. To run the code on the CVL dataset, activate the environment, and run the different code files in the following order:
+Download the dataset from [here](https://drive.google.com/drive/folders/1LbV4EOUtbuepO8HdBTliuDfDRbvxoFbM?usp=sharing). Unzip the zipped file inside the directory which the repository was cloned into. The data to run the code will now be available under the `/cvl-database-1-1` directory. To run the code on the CVL dataset, activate the environment, and run the different code files in the following order:
 
 1. 
 ```python
