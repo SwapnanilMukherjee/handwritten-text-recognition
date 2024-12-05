@@ -1,5 +1,5 @@
 # Handwritten Text Recognition and Key Concept Extraction
-##### Please read till the *END* of this file *BEFORE* executing any code. Please go through [this presentation](https://docs.google.com/presentation/d/1-ginbtvXUrmazReuxvKHM15HubOe625BQqj9Zs-IFuk/edit?usp=sharing) for a deep dive into the problem statement, datasets, methods etc. Thanks.
+##### Please read till the *END* of this file *BEFORE* executing any code. Go through [this presentation](https://docs.google.com/presentation/d/1-ginbtvXUrmazReuxvKHM15HubOe625BQqj9Zs-IFuk/edit?usp=sharing) for a deep dive into the problem statement, datasets, methods etc. Thanks.
 
 For running the code in this repository, using a virtual environment is strongly recommended. The codebase was developed on Python 3.8.5. Install the following packages in the virtual environment-
  - pandas
